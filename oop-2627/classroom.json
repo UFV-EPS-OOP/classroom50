@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "OOP-2627",
+  "short_name": "oop-2627",
+  "term": "",
+  "org": "UFV-EPS-OOP",
+  "team": {
+    "id": 18282986,
+    "slug": "classroom50-oop-2627"
+  },
+  "teams": {
+    "instructor": {
+      "id": 18282987,
+      "slug": "classroom50-oop-2627-instructor"
+    },
+    "ta": {
+      "id": 18282988,
+      "slug": "classroom50-oop-2627-ta"
+    }
+  }
+}
