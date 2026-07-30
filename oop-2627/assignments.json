@@ -1,25 +1,4 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": [
-    {
-      "slug": "prueba-ej004",
-      "name": "Prueba-EJ004",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": true,
-      "template": {
-        "owner": "UFV-EPS-OOP",
-        "repo": "ej004",
-        "branch": "main"
-      },
-      "description": "Probando Classroom50 por primera vez",
-      "due": "2026-07-01T09:03:00Z",
-      "due_meta": {
-        "input": "2026-07-01T11:03:00",
-        "zone": "Europe/Madrid",
-        "offset": "+02:00",
-        "source": "auto-detected"
-      }
-    }
-  ]
+  "assignments": []
 }
