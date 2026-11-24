@@ -91,6 +91,24 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "ej006",
+      "name": "EJ006 Adivina el número",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "UFV-EPS-OOP",
+        "repo": "EJ006",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
