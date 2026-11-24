@@ -55,6 +55,24 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "ej004",
+      "name": "EJ004 Máximo de 3 números",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "UFV-EPS-OOP",
+        "repo": "EJ004",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
