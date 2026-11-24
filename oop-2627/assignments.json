@@ -73,6 +73,24 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "ej005",
+      "name": "EJ005 Calculadora IMC",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "UFV-EPS-OOP",
+        "repo": "EJ005",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
