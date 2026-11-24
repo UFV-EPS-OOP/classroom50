@@ -19,6 +19,24 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "ej002",
+      "name": "EJ002 Área rectángulo",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "UFV-EPS-OOP",
+        "repo": "EJ002",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
