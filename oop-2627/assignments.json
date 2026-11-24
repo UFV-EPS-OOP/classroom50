@@ -1,23 +1,4 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": [
-    {
-      "slug": "ej001",
-      "name": "EJ001",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": true,
-      "no_autograder": true,
-      "copy_about": true,
-      "copy_topics": true,
-      "template": {
-        "owner": "UFV-EPS-OOP",
-        "repo": "EJ001",
-        "branch": "main"
-      },
-      "grading": {
-        "mode": "off"
-      }
-    }
-  ]
+  "assignments": []
 }
