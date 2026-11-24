@@ -3,7 +3,7 @@
   "assignments": [
     {
       "slug": "ej001",
-      "name": "EJ001",
+      "name": "EJ001 Suma dos números",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": true,
